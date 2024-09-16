@@ -1,5 +1,20 @@
-Olá 👋
+# Mateus Von Muhlen Wilamil
 
-- 🔭 I’m currently working at Fiabesa
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, REACT, NODE, JAVA
-- 📫 How to reach me: mateuswilamil@hotmail.com
+## About (EN)
+
+My name is Mateus. I have a degree in Mechanical Engineering from POLI-UPE and in Systems Analysis and Development from UNINASSAU. I currently work as a PCM, and I am studying and dedicating myself to transitioning into the Data & Analytics / Data Science.
+
+## Sobre (PT/BR)
+
+Meu nome é Mateus. Sou formado em Engenharia Mecânica pela POLI-UPE e em Análise e Desenvolvimento de Sistemas pela UNINASSAU. Atualmente trabalho como PCM e estou estudando e me dedicando para fazer a transição para a área de Data & Analytics / Data Science.
+
+## Estou atualmente estudando:
+
+- SQL
+- Python
+- Power BI
+- Banco de Dados
+- Machine Learning
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-wilamil-39980613b/)
